@@ -8,6 +8,6 @@ const people = [
 
 const randomIndex = () => Math.floor(Math.random() * people.length);
 
-const randomName = () => "Henrique Baêta";
+const randomName = () => people[randomIndex()];
 
 module.exports = randomName;
