@@ -1,0 +1,20 @@
+{
+  "name": "@henriquebaeta/randomtryber",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [
+    "random",
+    "tryber",
+    "trybe",
+    "name"
+  ],
+  "author": "Henrique Baêta Leite",
+  "license": "ISC",
+  "dependencies": {
+    "jest": "^27.2.4"
+  }
+}
