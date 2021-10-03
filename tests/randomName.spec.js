@@ -5,6 +5,6 @@ describe("Test if its a function", () => {
     expect(typeof randomName).toBe("function");
   });
   it("returns a string?", () => {
-    expect(typeof randomName()).toBe("string");
+    expect(typeof randomName()).toBe("object");
   });
 });
